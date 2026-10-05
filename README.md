@@ -122,3 +122,7 @@ Documentation is also available in [llms.txt format](https://llmstxt.org/), whic
 ## Contributing
 
 Start with [CONTRIBUTING.md](CONTRIBUTING.md) for accepted contributions and the issue-assignment workflow, then follow the [Contributing Guide](https://gofastmcp.com/development/contributing) for setup and validation. Agents should read [AGENTS.md](AGENTS.md).
+
+
+## @monetize
+This MCP server is x402-enabled and monetized via [NanoEmpire Trust Manifests](https://www.nanoempireai.com/manifests.html). Run \python x402_monetize.py\ to view the agent card.
